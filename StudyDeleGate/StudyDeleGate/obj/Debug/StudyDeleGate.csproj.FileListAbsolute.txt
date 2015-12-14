@@ -1,0 +1,8 @@
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\bin\Debug\StudyDeleGate.exe.config
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\bin\Debug\StudyDeleGate.exe
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\bin\Debug\StudyDeleGate.pdb
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\obj\Debug\StudyDeleGate.Form1.resources
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\obj\Debug\StudyDeleGate.Properties.Resources.resources
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\obj\Debug\StudyDeleGate.csproj.GenerateResource.Cache
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\obj\Debug\StudyDeleGate.exe
+D:\Unity3d\Unity3dStudyCase\C#01\StudyDeleGate\StudyDeleGate\obj\Debug\StudyDeleGate.pdb
